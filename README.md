@@ -1,6 +1,6 @@
 # Python Virtual Environment
 
-Created By: Ivan Yohanes Siregar (001202000050) &amp; Paulus Bangun ()
+Created By: Ivan Yohanes Siregar (001202000050) &amp; Paulus Bangun (001202000152)
 
 Class: IT-3 Batch 2020
 
